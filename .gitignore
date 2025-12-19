@@ -1,1 +1,22 @@
-for_my_info.txt
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+env/
+venv/
+
+# Build artifacts
+build/
+dist/
+
+# Data / results
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

@@ -1,0 +1,11 @@
+[project]
+name = "randomwalk"
+version = "0.1.0"
+description = "Random Walk & Diffusion Simulator"
+authors = [{name="Your Name"}]
+dependencies = ["numpy", "h5py"]
+
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
