@@ -2,7 +2,7 @@
 name = "randomwalk"
 version = "0.1.0"
 description = "Random Walk & Diffusion Simulator"
-authors = [{name="Your Name"}]
+authors = [{name="Sanjita Kumar"}]
 dependencies = ["numpy", "h5py"]
 
 
