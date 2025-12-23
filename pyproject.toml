@@ -1,0 +1,13 @@
+[project]
+name = "randomwalk"
+version = "0.1.0"
+description = "Random Walk & Diffusion Simulator"
+authors = [{name="Sanjita Kumar"}]
+dependencies = ["numpy>=1.23",
+  "matplotlib>=3.6",
+  "h5py>=3.8",]
+
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
