@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: randomwalk
+Version: 0.1.0
+Summary: Random Walk & Diffusion Simulator
+Author: Sanjita Kumar
+Requires-Dist: numpy
+Requires-Dist: h5py
