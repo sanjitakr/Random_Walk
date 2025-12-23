@@ -4,10 +4,8 @@
 - 1D / 2D / 3D random walks
 - Mean squared displacement analysis
 - Energy models (Lennard-Jones, Harmonic, Rosenbrock)
-- Gradient-based optimisers
-- Callbacks for monitoring convergence
+- Gradient-based optimisation
 - PNG & HDF5 output
-- Pytest-based test suite
 
 ### Install
 ```bash
